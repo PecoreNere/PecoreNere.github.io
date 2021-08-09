@@ -1,0 +1,242 @@
+{
+  "Drinks": {
+    "Bier": {
+      "small": {
+        "size": "0.3l",
+        "price": 3.2
+      },
+      "big": {
+        "size": "0.5l",
+        "price": 3.8
+      },
+      "deposit": 1,
+      "color": "Orange"
+    },
+    "Radler": {
+      "small": {
+        "size": "0.3l",
+        "price": 3.2
+      },
+      "big": {
+        "size": "0.5l",
+        "price": 3.8
+      },
+      "deposit": 1,
+      "color": "Orange"
+    },
+    "Spritzer": {
+      "small": {
+        "size": "0.3l",
+        "price": 3.2
+      },
+      "big": {
+        "size": "0.5l",
+        "price": 3.8
+      },
+      "deposit": 1,
+      "color": "LightBlue"
+    },
+    "Cola": {
+      "small": {
+        "size": "0.3l",
+        "price": 3.2
+      },
+      "big": {
+        "size": "0.5l",
+        "price": 3.8
+      },
+      "deposit": 1,
+      "color": "Grey"
+    },
+    "Himbeer": {
+      "small": {
+        "size": "0.3l",
+        "price": 3.2
+      },
+      "big": {
+        "size": "0.5l",
+        "price": 3.8
+      },
+      "deposit": 1,
+      "color": "Red"
+    },
+    "Orange": {
+      "small": {
+        "size": "0.3l",
+        "price": 3.2
+      },
+      "big": {
+        "size": "0.5l",
+        "price": 3.8
+      },
+      "deposit": 1,
+      "color": "Orange"
+    },
+    "Kräuter": {
+      "small": {
+        "size": "0.3l",
+        "price": 3.2
+      },
+      "big": {
+        "size": "0.5l",
+        "price": 3.8
+      },
+      "deposit": 1,
+      "color": "White"
+    },
+    "Soda": {
+      "small": {
+        "size": "0.3l",
+        "price": 3.2
+      },
+      "big": {
+        "size": "0.5l",
+        "price": 3.8
+      },
+      "deposit": 1,
+      "color": "White"
+    },
+    "Makava": {
+      "small": {
+        "size": "0.33l",
+        "price": 3.2
+      },
+      "deposit": 1,
+      "color": "White"
+    },
+    "Red Bull": {
+      "small": {
+        "size": "0.33l",
+        "price": 3.2
+      },
+      "deposit": 1,
+      "color": "White"
+    }
+  },
+  "Liquors": {
+    "Gin Tonic": {
+      "small": {
+        "size": "0.2l",
+        "price": 3.2
+      },
+      "deposit": 1,
+      "color": "LightBlue"
+    },
+    "Stoani": {
+      "small": {
+        "size": "0.2l",
+        "price": 3.2
+      },
+      "deposit": 1,
+      "color": "LightBlue"
+    },
+    "Flügerl": {
+      "small": {
+        "size": "0.2l",
+        "price": 3.2
+      },
+      "deposit": 1,
+      "color": "LightBlue"
+    },
+    "Wodka Makava": {
+      "small": {
+        "size": "0.2l",
+        "price": 3.2
+      },
+      "deposit": 1,
+      "color": "LightBlue"
+    },
+    "Whiskey Cola": {
+      "small": {
+        "size": "0.2l",
+        "price": 3.2
+      },
+      "deposit": 1,
+      "color": "LightBlue"
+    },
+    "Bacardi Cola": {
+      "small": {
+        "size": "0.2l",
+        "price": 3.2
+      },
+      "deposit": 1,
+      "color": "LightBlue"
+    },
+    "Flying Hirsch": {
+      "small": {
+        "size": "0.2l",
+        "price": 3.2
+      },
+      "deposit": 1,
+      "color": "LightBlue"
+    },
+    "Jäger": {
+      "small": {
+        "size": "0.2l",
+        "price": 3.2
+      },
+      "deposit": 1,
+      "color": "LightBlue"
+    },
+    "Makava": {
+      "small": {
+        "size": "0.2l",
+        "price": 3.2
+      },
+      "deposit": 1,
+      "color": "LightBlue"
+    },
+    "RedBull": {
+      "small": {
+        "size": "0.2l",
+        "price": 3.2
+      },
+      "deposit": 1,
+      "color": "LightBlue"
+    }
+  },
+  "Food": {
+    "Pommes": {
+      "price": 3.2,
+      "deposit": 0,
+      "color": "LightBlue"
+    },
+    "Kotelette-Semmel": {
+      "price": 3.2,
+      "deposit": 0,
+      "color": "LightBlue"
+    },
+    "Bratwurst": {
+      "price": 3.2,
+      "deposit": 1,
+      "color": "LightBlue"
+    },
+    "Pulled Pork": {
+      "price": 3.2,
+      "deposit": 1,
+      "color": "LightBlue"
+    },
+    "Suppe Fleisch": {
+      "price": 3.2,
+      "deposit": 1,
+      "color": "LightBlue"
+    },
+    "Suppe Vegan": {
+      "price": 3.2,
+      "deposit": 1,
+      "color": "LightBlue"
+    }
+  },
+  "Misc": {
+    "Marlboro": {
+      "price": 3.2,
+      "deposit": 0,
+      "color": "LightBlue"
+    },
+    "Marlboro Gold": {
+      "price": 3.2,
+      "deposit": 0,
+      "color": "LightBlue"
+    }
+  }
+}
