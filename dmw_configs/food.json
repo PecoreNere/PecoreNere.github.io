@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Pommes",
+    "price": 4.9,
+    "deposit": 1,
+    "color": "Orange"
+  },
+  {
+    "name": "Kotelette",
+    "price": 5.2,
+    "deposit": 1,
+    "color": "Orange"
+  },
+  {
+    "name": "Bratwurst",
+    "price": 5.2,
+    "deposit": 1,
+    "color": "Orange"
+  },
+  {
+    "name": "Pulled Pork",
+    "price": 7.2,
+    "deposit": 1,
+    "color": "Orange"
+  },
+  {
+    "name": "Suppe (Fl.))",
+    "price": 4.2,
+    "deposit": 1,
+    "color": "Orange"
+  },
+  {
+    "name": "Suppe (Veg.)",
+    "price": 4.2,
+    "deposit": 1,
+    "color": "Orange"
+  }
+]
