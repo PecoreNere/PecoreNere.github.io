@@ -1,4 +1,18 @@
 {
+  "Tuesday": [
+    "Benni",
+    "Luki",
+    "Sarah",
+    "Moni",
+    "Chris",
+    "Sascha",
+    "Marion",
+    "Mandi",
+    "Nathalie",
+    "And",
+    "Some",
+    "More"
+  ],
   "Friday": [
     "Benni",
     "Luki",
@@ -10,7 +24,7 @@
     "Mandi",
     "Nathalie",
     "And",
-    "Many",
+    "Much",
     "More"
   ],
   "Saturday": [
@@ -27,6 +41,20 @@
     "Many",
     "More",
     "And",
+    "More"
+  ],
+  "Sunday": [
+    "Benni",
+    "Luki",
+    "Sarah",
+    "Moni",
+    "Chris",
+    "Sascha",
+    "Marion",
+    "Mandi",
+    "Nathalie",
+    "And",
+    "Many",
     "More"
   ]
 }
