@@ -36,15 +36,15 @@
   },
   {
     "name": "Makava",
-    "size": "0.2l",
-    "price": 4.2,
+    "size": "0.33l",
+    "price": 4.0,
     "deposit": 1,
     "color": "Orange"
   },
   {
     "name": "Red Bull",
-    "size": "0.2l",
-    "price": 4.2,
+    "size": "0.25l",
+    "price": 4.0,
     "deposit": 1,
     "color": "Orange"
   }
