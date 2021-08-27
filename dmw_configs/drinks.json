@@ -2,126 +2,126 @@
     {
         "name": "Bier",
         "size": "0.3l",
-        "price": 3.2,
+        "price": 3.0,
         "deposit": 1,
         "color": "Orange"
     },
     {
         "name": "Bier",
         "size": "0.5l",
-        "price": 3.8,
+        "price": 4.0,
         "deposit": 1,
         "color": "Orange"
     },
     {
         "name": "Radler",
         "size": "0.3l",
-        "price": 3.2,
+        "price": 3.0,
         "deposit": 1,
         "color": "Brown"
     },
     {
         "name": "Radler",
         "size": "0.5l",
-        "price": 3.8,
+        "price": 4.0,
         "deposit": 1,
         "color": "Brown"
     },
     {
         "name": "Spritzer",
         "size": "0.3l",
-        "price": 3.2,
+        "price": 3.0,
         "deposit": 1,
         "color": "Brown"
     },
     {
         "name": "Spritzer",
         "size": "0.5l",
-        "price": 3.8,
+        "price": 4.0,
         "deposit": 1,
         "color": "Brown"
     },
     {
         "name": "Cola",
         "size": "0.3l",
-        "price": 3.2,
+        "price": 2.5,
         "deposit": 1,
         "color": "Brown"
     },
     {
         "name": "Cola",
         "size": "0.5l",
-        "price": 3.8,
+        "price": 3.5,
         "deposit": 1,
         "color": "Brown"
     },
     {
         "name": "Himbeer",
         "size": "0.3l",
-        "price": 3.2,
+        "price": 2.5,
         "deposit": 1,
         "color": "Brown"
     },
     {
         "name": "Himbeer",
         "size": "0.5l",
-        "price": 3.8,
+        "price": 3.5,
         "deposit": 1,
         "color": "Brown"
     },
     {
         "name": "Orange",
         "size": "0.3l",
-        "price": 3.2,
+        "price": 2.5,
         "deposit": 1,
         "color": "Brown"
     },
     {
         "name": "Orange",
         "size": "0.5l",
-        "price": 3.8,
+        "price": 3.5,
         "deposit": 1,
         "color": "Brown"
     },
     {
         "name": "Kräuter",
         "size": "0.3l",
-        "price": 3.2,
+        "price": 2.5,
         "deposit": 1,
         "color": "Brown"
     },
     {
         "name": "Kräuter",
         "size": "0.5l",
-        "price": 3.8,
+        "price": 3.5,
         "deposit": 1,
         "color": "Brown"
     },
     {
         "name": "Soda",
         "size": "0.3l",
-        "price": 3.2,
+        "price": 1.5,
         "deposit": 1,
         "color": "Brown"
     },
     {
         "name": "Soda",
         "size": "0.5l",
-        "price": 3.8,
+        "price": 2.5,
         "deposit": 1,
         "color": "Brown"
     },
     {
         "name": "Makava",
         "size": "0.33l",
-        "price": 3.2,
+        "price": 4.0,
         "deposit": 1,
         "color": "Brown"
     },
     {
         "name": "Red Bull",
-        "size": "0.33l",
-        "price": 3.8,
+        "size": "0.25l",
+        "price": 4.0,
         "deposit": 1,
         "color": "Brown"
     }
