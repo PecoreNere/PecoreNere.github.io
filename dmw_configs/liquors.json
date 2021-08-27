@@ -1,57 +1,36 @@
 [
   {
-    "name": "Gin Tonic",
-    "size": "0.2l",
-    "price": 4.2,
+    "name": "Shots",
+    "size": "0.02l",
+    "price": 3.0,
     "deposit": 1,
     "color": "Orange"
   },
   {
-    "name": "Stoani",
+    "name": "Mix RB",
     "size": "0.2l",
-    "price": 4.2,
+    "price": 4.0,
     "deposit": 1,
     "color": "Orange"
   },
   {
-    "name": "Flügerl",
+    "name": "Mix Makava",
     "size": "0.2l",
-    "price": 4.2,
+    "price": 4.0,
     "deposit": 1,
     "color": "Orange"
   },
   {
-    "name": "Wodka M.",
+    "name": "Mix Tonic",
     "size": "0.2l",
-    "price": 4.2,
+    "price": 4.0,
     "deposit": 1,
     "color": "Orange"
   },
   {
-    "name": "Whiskey Cola",
+    "name": "Mix Limo",
     "size": "0.2l",
-    "price": 4.2,
-    "deposit": 1,
-    "color": "Orange"
-  },
-  {
-    "name": "Bacardi Cola",
-    "size": "0.2l",
-    "price": 4.2,
-    "deposit": 1,
-    "color": "Orange"
-  },
-  {
-    "name": "Flying Hirsch",
-    "size": "0.2l",
-    "price": 4.2,
-    "deposit": 1,
-    "color": "Orange"
-  },
-  {
-    "name": "Jäger",
-    "size": "0.2l",
-    "price": 4.2,
+    "price": 3.5,
     "deposit": 1,
     "color": "Orange"
   },
