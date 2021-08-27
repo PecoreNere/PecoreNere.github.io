@@ -1,14 +1,14 @@
 [
     {
         "name": "Marlboro",
-        "price": 6.2,
-        "deposit": 1,
+        "price": 7.0,
+        "deposit": 0,
         "color": "Orange"
     },
     {
-        "name": "Marlboro Gold",
-        "price": 6.2,
-        "deposit": 1,
+        "name": "Chesterfield",
+        "price": 7.0,
+        "deposit": 0,
         "color": "Orange"
     }
 ]
