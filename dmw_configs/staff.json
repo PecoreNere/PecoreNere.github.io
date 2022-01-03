@@ -1,5 +1,5 @@
 {
-  "Tuesday": [
+  "Staff": [
     "Benni",
     "Luki",
     "Sarah",
@@ -11,50 +11,6 @@
     "Nathalie",
     "And",
     "Some",
-    "More"
-  ],
-  "Friday": [
-    "Benni",
-    "Luki",
-    "Sarah",
-    "Moni",
-    "Chris",
-    "Sascha",
-    "Marion",
-    "Mandi",
-    "Nathalie",
-    "And",
-    "Much",
-    "More"
-  ],
-  "Saturday": [
-    "Benni",
-    "Luki",
-    "Sarah",
-    "Moni",
-    "Chris",
-    "Sascha",
-    "Marion",
-    "Mandi",
-    "Nathalie",
-    "And",
-    "Many",
-    "More",
-    "And",
-    "More"
-  ],
-  "Sunday": [
-    "Benni",
-    "Luki",
-    "Sarah",
-    "Moni",
-    "Chris",
-    "Sascha",
-    "Marion",
-    "Mandi",
-    "Nathalie",
-    "And",
-    "Many",
     "More"
   ]
 }
