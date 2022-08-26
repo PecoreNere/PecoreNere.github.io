@@ -40,5 +40,11 @@
     "price": 3.5,
     "deposit": 0,
     "color": "Orange"
+  },
+      {
+    "name": "Gebäck",
+    "price": 0.5,
+    "deposit": 0,
+    "color": "Orange"
   }
 ]
