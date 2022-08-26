@@ -99,6 +99,13 @@
     },
     {
         "name": "Soda",
+        "size": "0.5l",
+        "price": 2.5,
+        "deposit": 1,
+        "color": "Brown"
+    },
+        {
+        "name": "Soda",
         "size": "0.3l",
         "price": 1.5,
         "deposit": 1,
