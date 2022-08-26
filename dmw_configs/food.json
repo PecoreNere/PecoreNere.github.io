@@ -13,25 +13,31 @@
   },
   {
     "name": "Pulled Pork",
-    "price": 8.0,
+    "price": 9.0,
     "deposit": 0,
     "color": "Orange"
   },
   {
     "name": "Suppe (Fl.)",
-    "price": 4.5,
+    "price": 5.0,
     "deposit": 0,
     "color": "Orange"
   },
   {
     "name": "Suppe (Veg.)",
-    "price": 4.5,
+    "price": 5.0,
     "deposit": 0,
     "color": "Orange"
   },
   {
     "name": "Eintopf",
     "price": 6.0,
+    "deposit": 0,
+    "color": "Orange"
+  },
+    {
+    "name": "Leberkäs",
+    "price": 3.5,
     "deposit": 0,
     "color": "Orange"
   }
