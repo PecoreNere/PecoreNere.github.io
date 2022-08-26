@@ -1,8 +1,19 @@
 {
-      "Tuesday": [
-      "Staff": [
-        "BAND",
-        "TEAM",
-        "Sonstige"
+  "Tuesday": [
+  "Staff": [
+"BAND",
+        "TEAM"
+  ],
+  "Friday": [
+"BAND",
+        "TEAM"
+  ],
+  "Saturday": [
+"BAND",
+        "TEAM"
+  ],
+  "Sunday": [
+"BAND",
+        "TEAM"
   ]
 }
