@@ -97,14 +97,7 @@
         "deposit": 1,
         "color": "Brown"
     },
-    {
-        "name": "Soda",
-        "size": "0.5l",
-        "price": 2.5,
-        "deposit": 1,
-        "color": "Brown"
-    },
-        {
+            {
         "name": "Soda",
         "size": "0.3l",
         "price": 1.5,
@@ -112,6 +105,20 @@
         "color": "Brown"
     },
     {
+        "name": "Soda",
+        "size": "0.5l",
+        "price": 2.5,
+        "deposit": 1,
+        "color": "Brown"
+    },
+        {
+        "name": "Apfel pur",
+        "size": "0.3l",
+        "price": 2.5,
+        "deposit": 1,
+        "color": "Brown"
+    },
+    {
         "name": "Apfel pur",
         "size": "0.5l",
         "price": 3.5,
@@ -119,7 +126,7 @@
         "color": "Brown"
     },
     {
-        "name": "Apfel pur",
+        "name": "Apfel gespr.",
         "size": "0.3l",
         "price": 2.5,
         "deposit": 1,
@@ -129,13 +136,6 @@
         "name": "Apfel gespr.",
         "size": "0.5l",
         "price": 3.5,
-        "deposit": 1,
-        "color": "Brown"
-    },
-    {
-        "name": "Apfel gespr.",
-        "size": "0.3l",
-        "price": 2.5,
         "deposit": 1,
         "color": "Brown"
     },
