@@ -1,7 +1,10 @@
 {
   "Staff": [
-    "BAND",
-    "TEAM",
-    "Sonstige"
+    friday
+    [
+        "BAND",
+        "TEAM",
+        "Sonstige"
+    ]
   ]
 }
