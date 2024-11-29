@@ -2,25 +2,25 @@
     {
         "name": "Glühwein",
         "price": 4.5,
-        "deposit": 3.5,
+        "deposit": 4.0,
         "color": "Orange"
     },
     {
         "name": "Glühmost",
         "price": 4.0,
-        "deposit": 3.5,
+        "deposit": 4.0,
         "color": "Orange"
     },
     {
         "name": "Punsch",
         "price": 3.5,
-        "deposit": 3.5,
+        "deposit": 4.0,
         "color": "Orange"
     },
     {
         "name": "Punsch mit Schuss",
         "price": 4.5,
-        "deposit": 3.5,
+        "deposit": 4.0,
         "color": "Orange"
     },
     {
@@ -30,23 +30,30 @@
         "color": "Orange"
     },
     {
-        "name": "Schneefl.",
-        "price": 3.5,
+        "name": "Schnaps",
+        "price": 4.0,
         "deposit": 0.0,
         "color": "Orange"
     },
     {
         "name": "Käsebrot",
-        "price": 6.0,
+        "price": 7.0,
         "deposit": 0,
         "color": "Orange"
     },
     {
         "name": "Speckkäsebrot",
-        "price": 8.0,
+        "price": 9.0,
         "deposit": 0.0,
         "color": "Orange"
     },
+    {
+        "name": "Limo",
+        "price": 3.5,
+        "deposit": 0.0,
+        "color": "Orange"
+    }
+
     {
         "name": "Mineral",
         "price": 3.0,
